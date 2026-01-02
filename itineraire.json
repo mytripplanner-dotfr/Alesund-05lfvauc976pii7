@@ -1,0 +1,168 @@
+{
+  "pays": "Norvège",
+  "drapeau": "🇳🇴",
+  "symbole": "🏔️",
+  "titre": "Évasion relaxante à Ålesund, la Venise de l'Art Nouveau",
+  "budget_total": "850 €",
+  "duree": "4 jours",
+  "temps_vol": "4h20 depuis Paris, france",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et immersion Art Nouveau",
+      "legende": "Après un vol paisible, découvrez le charme unique d'Ålesund. Flânez dans ses rues bordées de bâtiments Art Nouveau et imprégnez-vous de l'atmosphère sereine de cette ville portuaire.",
+      "lieu": "Ålesund",
+      "activites": [
+        "<strong>🛬 Arrivée à Ålesund</strong>: Atterrissage à l'aéroport d'Ålesund (AES) et transfert vers le centre-ville.",
+        "<strong>🛏️ Installation à l'hôtel</strong>: Prenez vos quartiers dans votre hébergement et détendez-vous après le voyage.",
+        "<strong>🚶‍♂️ Balade dans le centre historique</strong>: Explorez les rues pavées et admirez l'architecture Art Nouveau, unique en Norvège."
+      ],
+      "illustration": "alesund_jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Transfert aéroport",
+          "texte": "Des bus Flybussen relient l'aéroport d'Ålesund (AES) au centre-ville en environ 25-30 minutes. Les billets peuvent être achetés à bord ou en ligne."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏞️",
+      "titre": "Panoramas et vie marine",
+      "legende": "Commencez la journée par une vue imprenable sur la ville et ses environs, puis plongez dans le monde fascinant de la vie marine norvégienne, une expérience relaxante et éducative.",
+      "lieu": "Ålesund",
+      "activites": [
+        "<strong>⛰️ Vue panoramique depuis Aksla</strong>: Montez les 418 marches jusqu'au point de vue de Fjellstua pour une perspective époustouflante sur Ålesund et les îles environnantes.",
+        "<strong>🏛️ Visite du Centre Art Nouveau</strong>: Plongez dans l'histoire de la reconstruction d'Ålesund après l'incendie de 1904 et découvrez les particularités de ce style architectural.",
+        "<strong>🐠 Exploration de l'Atlantic Sea-Park</strong>: Détendez-vous en observant la faune marine de l'Atlantique Nord dans l'un des plus grands aquariums d'Europe du Nord."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Fjellstua Viewpoint, Ålesund",
+          "categorie": "Point de vue",
+          "coords": { "lat": 62.4735, "lng": 6.1512 }
+        },
+        {
+          "nom_recherche": "Jugendstilsenteret, Ålesund",
+          "categorie": "Musée",
+          "coords": { "lat": 62.4729, "lng": 6.1539 }
+        },
+        {
+          "nom_recherche": "Atlanterhavsparken, Ålesund",
+          "categorie": "Aquarium",
+          "coords": { "lat": 62.4630, "lng": 6.1040 }
+        }
+      ],
+      "illustration": "alesund_jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🚶‍♀️",
+          "titre": "Accès à Aksla",
+          "texte": "Pour ceux qui préfèrent, un petit train touristique (Bytoget) ou un taxi peut vous emmener au sommet d'Aksla, évitant ainsi les marches."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🏝️",
+      "titre": "Charme insulaire et sérénité côtière",
+      "legende": "Échappez à l'agitation de la ville pour une journée sur les îles voisines. Profitez de paysages côtiers apaisants et de l'air frais de la mer, une véritable bouffée d'oxygène.",
+      "lieu": "Île de Godøy",
+      "activites": [
+        "<strong>🚢 Traversée vers l'île de Godøy</strong>: Prenez un bus local ou un ferry pour rejoindre l'île pittoresque de Godøy, connue pour ses paysages.",
+        "<strong>燈 Visite du phare d'Alnes</strong>: Explorez le charmant phare d'Alnes, un lieu emblématique offrant des vues magnifiques sur l'océan et la côte. Profitez d'une pause café dans son café douillet.",
+        "<strong>🚶‍♀️ Balade côtière relaxante</strong>: Promenez-vous le long des sentiers côtiers de Godøy, respirez l'air marin et admirez les plages de sable et les formations rocheuses."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Alnes Fyr, Godøy",
+          "categorie": "Phare",
+          "coords": { "lat": 62.4930, "lng": 5.9980 }
+        }
+      ],
+      "illustration": "alesund_jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🚌",
+          "titre": "Transport vers Godøy",
+          "texte": "Des bus locaux (ligne 661) partent régulièrement du centre d'Ålesund vers Godøy. Vérifiez les horaires à l'avance, surtout le week-end."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🛫",
+      "titre": "Derniers instants et départ",
+      "legende": "Profitez d'une dernière matinée pour quelques achats ou un café tranquille avant de prendre votre vol retour, emportant avec vous les souvenirs d'Ålesund.",
+      "lieu": "Ålesund",
+      "activites": [
+        "<strong>🛍️ Shopping de souvenirs</strong>: Flânez dans les boutiques du centre-ville pour trouver des cadeaux ou des produits locaux à rapporter.",
+        "<strong>☕ Café norvégien</strong>: Savourez un dernier café ou une pâtisserie dans l'un des charmants cafés d'Ålesund, en observant l'animation du port.",
+        "<strong>🛫 Départ d'Ålesund</strong>: Transfert vers l'aéroport et vol retour vers Paris."
+      ],
+      "illustration": "alesund_jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "⏰",
+          "titre": "Heure de départ",
+          "texte": "Prévoyez suffisamment de temps pour le transfert vers l'aéroport et les formalités d'embarquement, surtout si votre vol est tôt le matin."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "190 €/pers (A/R)", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "~80 €/pers (bus locaux, ferry)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "~240 €/pers (4 jours, budget moyen)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "~225 €/pers (3 nuits, hôtel 3* partagé)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "~70 €/pers (musées, aquarium, phare)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Mai à Septembre", "symbole": "☀️" },
+    { "titre": "Juin-Juillet (jour le plus long)", "symbole": "🌅" }
+  ],
+  "infos_pratiques": [
+    { "titre": "En mai, les températures à Ålesund varient entre 5 et 12°C. Prévoyez des couches de vêtements, un imperméable et des chaussures confortables.", "symbole": "🌦️" },
+    { "titre": "La monnaie est la Couronne Norvégienne (NOK). Les cartes de crédit sont largement acceptées, mais un peu de liquide peut être utile pour les petits achats.", "symbole": "💳" },
+    { "titre": "Le réseau de bus local (FRAM) est efficace pour se déplacer en ville et vers les îles proches. Les ferries sont essentiels pour certaines liaisons.", "symbole": "🚌" },
+    { "titre": "Le norvégien est la langue officielle, mais l'anglais est couramment parlé, surtout dans les zones touristiques.", "symbole": "🗣️" }
+  ],
+  "anecdotes_infos_loufoques": [
+    {
+      "symbole": "🔥",
+      "titre": "La ville renaît de ses cendres",
+      "texte": "En 1904, un incendie dévastateur a détruit la quasi-totalité d'Ålesund. La ville fut reconstruite en seulement quelques années dans le style Art Nouveau, lui conférant son apparence unique et féerique."
+    },
+    {
+      "symbole": "🌉",
+      "titre": "La Venise du Nord",
+      "texte": "Construite sur plusieurs îles reliées par des ponts et des canaux, Ålesund est souvent surnommée la \"Venise du Nord\" ou \"la ville la plus belle de Norvège\"."
+    }
+  ],
+  "specialites_culinaires": [
+    {
+      "symbole": "🍲",
+      "titre": "Fiskesuppe",
+      "description": "Une délicieuse soupe de poisson crémeuse, souvent préparée avec du saumon, de la morue et des légumes frais, un classique réconfortant."
+    },
+    {
+      "symbole": "🐟",
+      "titre": "Klippfisk",
+      "description": "La morue séchée et salée est une spécialité historique d'Ålesund. Elle est servie de multiples façons, souvent en ragoût ou grillée avec des légumes."
+    },
+    {
+      "symbole": "🧀",
+      "titre": "Brunost",
+      "description": "Ce fromage brun caramélisé, doux et légèrement sucré, est une curiosité norvégienne. Il est délicieux sur du pain, des gaufres ou même en accompagnement de plats salés."
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-AES/2026-05-14/2026-05-18", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Visit Ålesund", "url": "https://www.visitalesund.com/", "symbole": "📘" },
+    { "legende": "Transports locaux", "titre": "FRAM (Bus et Ferry)", "url": "https://fram.no/", "symbole": "🚌" },
+    { "legende": "Météo", "titre": "Yr.no (Météo Norvégienne)", "url": "https://www.yr.no/en/forecast/daily-table/1-24955/Norway/M%C3%B8re%20og%20Romsdal/Giske/Alnes", "symbole": "🌤️" }
+  ]
+}
